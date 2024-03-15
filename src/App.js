@@ -77,7 +77,7 @@ const handleSubmit = (e) => {
   addItem(newItem)
   setnewItem('');
 }
-const title = "Add your Fucking subjects";
+const title = "Add your list of subjects";
 const user = 'Dereck'
 return (
     <>
